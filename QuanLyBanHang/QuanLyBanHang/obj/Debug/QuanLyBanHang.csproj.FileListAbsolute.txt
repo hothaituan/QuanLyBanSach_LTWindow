@@ -1,0 +1,11 @@
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\HoThaiTuan_LTWindows\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FromDN.resources
